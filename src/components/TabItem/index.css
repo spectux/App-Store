@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.tab-item {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.active-tab {
+  background-color: #ace0f9;
+  color: #1e293b;
+}
